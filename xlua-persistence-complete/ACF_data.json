@@ -1,0 +1,9 @@
+{
+  "dataref_name1": 1.0,
+  "dataref_name2": 0.5,
+  "dataref_array": {
+    "1": 0.8,
+    "2": 0.75,
+    "3": 0.9
+  }
+}
